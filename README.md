@@ -9,7 +9,7 @@ Mail : 221216038@stu.istinye.edu.tr
 
 
 <a href="https://codescene.com/" rel="nofollow">
-   <img src="https://github.com/edaaydin/Mobil_App/assets/119500243/7f9f6a13-6f97-4c89-90af-895b58d783ee" width="493" height="393" >
+   <img src="https://github.com/edaaydin/Mobil_App/assets/119500243/7f9f6a13-6f97-4c89-90af-895b58d783ee" width="393" height="493" >
    <br>
 
 </a>
